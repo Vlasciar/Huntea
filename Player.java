@@ -14,8 +14,8 @@ public class Player extends Actor {
     public void act() {
         Movement();
     }
-    int speed_diagonal=2; //viteza pe diagonala
-    int speed_normal=3;
+    int speed_diagonal=3; //viteza pe diagonala
+    int speed_normal=4;
     int pX; //player x
     int pY; //player y
     private void DoMove(int next_pX, int next_pY)//miscare diagonala
@@ -93,7 +93,7 @@ public class Player extends Actor {
         }
     }
 
-    public boolean check_move() //coliziuni cu obstacolele
+    private boolean check_move() //coliziuni cu obstacolele
     {
         Actor prop = getOneIntersectingObject(Props.class);
         if (prop == null)

@@ -28,21 +28,28 @@ public class MyWorld extends World
     {
         Player player = new Player();
         addObject(player,586,327);
-        Wall_Oriz wall_Oriz = new Wall_Oriz();
-        addObject(wall_Oriz,321,112);
-        Wall_Oriz wall_Oriz2 = new Wall_Oriz();
-        addObject(wall_Oriz2,776,104);
-        Wall_Oriz wall_Oriz3 = new Wall_Oriz();
-        addObject(wall_Oriz3,759,529);
-        Wall_Oriz wall_Oriz4 = new Wall_Oriz();
-        addObject(wall_Oriz4,302,513);
+
         Wall_Vert wall_Vert = new Wall_Vert();
-        addObject(wall_Vert,256,459);
+        addObject(wall_Vert,274,157);
         Wall_Vert wall_Vert2 = new Wall_Vert();
-        addObject(wall_Vert2,270,149);
+        addObject(wall_Vert2,741,478);
         Wall_Vert wall_Vert3 = new Wall_Vert();
-        addObject(wall_Vert3,820,148);
+        addObject(wall_Vert3,750,216);
         Wall_Vert wall_Vert4 = new Wall_Vert();
-        addObject(wall_Vert4,806,483);
+        addObject(wall_Vert4,407,214);
+        Wall_Vert wall_Vert5 = new Wall_Vert();
+        addObject(wall_Vert5,407,454);
+        wall_Vert.setLocation(286,183);
+        removeObject(wall_Vert);
+        Wall_Oriz wall_Oriz = new Wall_Oriz();
+        addObject(wall_Oriz,452,164);
+        Wall_Oriz wall_Oriz2 = new Wall_Oriz();
+        addObject(wall_Oriz2,703,167);
+        Wall_Oriz wall_Oriz3 = new Wall_Oriz();
+        addObject(wall_Oriz3,698,518);
+        Wall_Oriz wall_Oriz4 = new Wall_Oriz();
+        addObject(wall_Oriz4,451,497);
+        Main_Ray main_Ray = new Main_Ray(player);
+        addObject(main_Ray,582,290);
     }
 }
