@@ -13,21 +13,23 @@ public class Main_Ray extends Actor
      * the 'Act' or 'Run' button gets pressed in the environment.
      */
     Player player= new Player();
+    
     public Main_Ray (Player pl)
     {
-        player=pl;      
+        player=pl;   
+        this.setLocation(player.getX(),player.getY());
     }
+    
     boolean Mouse1_down=false;
     boolean Mouse2_down=false;
     int relative_X=0;
     int relative_Y=-100;
     public void act() 
     {
-        // Add your action code here.
-        this.setLocation(player.getX(),player.getY());        
-        //relative_X=-(player.getX()-getX());
-        //relative_Y=-(player.getY()-getY());
-        GetMouse();        
+        this.setLocation(player.getX(),player.getY());
+        this.turnTowards(player.getX()+relative_X,player.getY()+relative_Y);
+        GetMouse();    
+      ///  move(3);
     } 
     private void GetMouse()
     {
@@ -60,7 +62,7 @@ public class Main_Ray extends Actor
             DoMove(2);
         }
     }
-  //  int position=0;
+  
     private void DoMove(int direction)
     {        
         if(relative_Y<=-100 )

@@ -19,16 +19,23 @@ public class MyWorld extends World
         super(1080, 675, 1); 
         prepare();
     }
-
+    public void act()
+    {
+        
+    }
     /**
      * Prepare the world for the start of the program.
      * That is: create the initial objects and add them to the world.
      */
+    Player pl = new Player();
     private void prepare()
     {
-        Player player = new Player();
-        addObject(player,586,327);
-
+        
+        addObject(pl,586,327);
+        rays();
+          
+        
+        
         Wall_Vert wall_Vert = new Wall_Vert();
         addObject(wall_Vert,274,157);
         Wall_Vert wall_Vert2 = new Wall_Vert();
@@ -49,7 +56,23 @@ public class MyWorld extends World
         addObject(wall_Oriz3,698,518);
         Wall_Oriz wall_Oriz4 = new Wall_Oriz();
         addObject(wall_Oriz4,451,497);
-        Main_Ray main_Ray = new Main_Ray(player);
-        addObject(main_Ray,582,290);
+        
+    }
+    Sec_Ray[] sec_rays;
+    private void rays()
+    {
+        Main_Ray main_Ray = new Main_Ray(pl);
+        addObject(main_Ray,pl.getX(),pl.getY());
+        
+        for(int i=-100;i<=100;i+=20)
+        {
+            if(i!=0)
+            {
+            Sec_Ray sec_Ray = new Sec_Ray(main_Ray,i);
+            addObject(sec_Ray,pl.getX(),pl.getY());
+        }
+        }
+        
+        
     }
 }
