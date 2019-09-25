@@ -8,28 +8,32 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public class MyWorld extends World
 {
-
+    boolean twoD = false;
     public MyWorld()
-    {    
-        // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
-        super(70*13, 850, 1); 
+    {            
+        super(70*13, 850, 1);         
         prepare();
-    }
+        if(!twoD){inviz2d();}
+    }    
     public void act()
     {
         MouseInfo mouse = Greenfoot.getMouseInfo();
         setBackground("bg.png");
+        getBackground().setColor(Color.BLACK);            
+        getBackground().fillRect(0, 0,getWidth(),getHeight()/2);
+        getBackground().setColor(Color.GRAY);
+        getBackground().fillRect(0, getWidth()/2,getWidth(),getHeight()/2);
         if(Greenfoot.mousePressed(null)==false)
         {
         rays_draw();
         render_wall();
        }       
     }    
-    int FOV=35;//half of the fov
-    Player pl = new Player();
+    int FOV=35;//half of the fov    
     Ray[] rays = new Ray[361];//max fov 360
-    Wall[] walls = new Wall[255];
-    Main_Ray main_Ray = new Main_Ray(pl);
+    Wall[] walls = new Wall[255]; 
+    Main_Ray main_Ray = new Main_Ray();  
+    Player pl = new Player(main_Ray);    
     int k=0;
     private void prepare()
     {
@@ -61,7 +65,7 @@ public class MyWorld extends World
             double cos = Math.cos(Math.toRadians(angle));
             record = (int)(cos*rays[i].record); 
             double diagonal = getWidth() / Math.cos(Math.toRadians(45));
-            height = ((double)getHeight()/diagonal *record);
+            height = ((double)getHeight()/diagonal /record)*100000;
             int color = rays[i].color;
             if(color==0)
             {
@@ -84,13 +88,9 @@ public class MyWorld extends World
                 getBackground().setColor(Color.YELLOW);
             } 
             
-            getBackground().fillRect(i * length, 0,length,getHeight());
+            getBackground().fillRect(i * length, getHeight()/2-(int)height/2,length,(int)height);
             
-            getBackground().setColor(Color.BLACK);            
-            getBackground().fillRect(i * length, 0,length,(int)height/2);
-            getBackground().setColor(Color.GRAY);
-            getBackground().fillRect(i * length, getHeight()-(int)height/2,length,(int)height/2);            
-            //showText(String.valueOf(height), 200, 200);
+             //showText(String.valueOf(height), 200, 200);
         }
     }
     private void rays_draw()////act////
@@ -98,7 +98,7 @@ public class MyWorld extends World
         k=0;
         for(int i=main_Ray.getRotation()-FOV;i<=main_Ray.getRotation()+FOV;i++,k++)
         { 
-        rays[k].setLocation(main_Ray.player.getX(),main_Ray.player.getY());
+        rays[k].setLocation(pl.getX(),pl.getY());
         rays[k].setRotation(main_Ray.getRotation()-FOV+k);
      }
     }
@@ -158,5 +158,18 @@ public class MyWorld extends World
         addObject(walls[w],1080,350);
         walls[w].x1=W;walls[w].y1=0;walls[w].x2=W;walls[w].y2=H;
         
+    }
+    public void inviz2d()
+    {
+        for(int i=0;i<walls.length;i++){
+            if(walls[i]!=null)
+            walls[i].getImage().setTransparency(0);
+        }
+        main_Ray.getImage().setTransparency(0);
+        pl.getImage().setTransparency(0);
+        for(int i=0;i<rays.length;i++){
+            if(rays[i]!=null)
+            rays[i].getImage().setTransparency(0);
+        }
     }
 }

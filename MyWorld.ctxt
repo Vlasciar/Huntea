@@ -17,4 +17,6 @@ comment7.params=
 comment7.target=void\ prep_walls()
 comment8.params=
 comment8.target=void\ prep_edge_walls()
-numComments=9
+comment9.params=
+comment9.target=void\ inviz2d()
+numComments=10

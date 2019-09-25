@@ -21,6 +21,7 @@ public class Wall extends Props
     double x2,y2; //pt 2
     
     int color;
+    boolean twoD = false;
     public Wall(int cl)
     {
         color=cl;
@@ -60,6 +61,8 @@ public class Wall extends Props
          //getWorld().showText(String.valueOf(x2), 200, 200);
          //getWorld().showText(String.valueOf(y2), 200, 270);
          //int myWorldVar = ((MyWorld) getWorld()).myVar;
+         if(twoD==true){
          getWorld().getBackground().drawLine((int) x1, (int) y1, (int) x2, (int) y2);
+        }
     }    
 }

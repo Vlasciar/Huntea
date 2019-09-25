@@ -1,11 +1,7 @@
 
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 import java.awt.Color;
-/**
- * Write a description of class Sec_Ray here.
- * 
- * @author (your name) 
- * @version 4 */
+
 public class Ray extends Actor
 {
     double x3,y3;//position
@@ -17,7 +13,7 @@ public class Ray extends Actor
 
     double alaturata;
     double opusa;   
-
+    boolean twoD = false;
     public void act() 
     {     
         coordonates();
@@ -69,22 +65,15 @@ public class Ray extends Actor
                 if(distance < record) {
                     color = walls[k].color;
                     record = distance;
-                    record_pt_X = pt_X;
+                    record_pt_X = pt_X; 
                     record_pt_Y = pt_Y;
                 }
             }
             k++;            
         }  
-           
-        if(record_pt_X!=0 && record_pt_Y!=0);
-        getWorld().getBackground().drawLine((int) x3, (int) y3, (int) record_pt_X, (int) record_pt_Y);
-    }
-    public int getRecord()
-    {
-        angle = getRotation();    
-        cos = Math.cos(Math.toRadians(angle));
-        alaturata = cos*(record);   
-        
-        return (int) alaturata;
-    }
+        if(twoD==true){
+            if(record_pt_X!=0 && record_pt_Y!=0);
+            getWorld().getBackground().drawLine((int) x3, (int) y3, (int) record_pt_X, (int) record_pt_Y);   
+        }
+    }    
 }

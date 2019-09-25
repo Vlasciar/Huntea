@@ -12,21 +12,14 @@ public class Main_Ray extends Actor
      * Act - do whatever the Main_Ray wants to do. This method is called whenever
      * the 'Act' or 'Run' button gets pressed in the environment.
      */
-    Player player= new Player();
-    
-    public Main_Ray (Player pl)
-    {
-        player=pl;   
-       // this.setLocation(player.getX(),player.getY());
-    }
-    
+        
     boolean Mouse1_down=false;
     boolean Mouse2_down=false;
     int relative_X=0;
     int relative_Y=-100;
     public void act() 
     {
-        this.setLocation(player.getX(),player.getY());
+        
         //this.turnTowards(player.getX()+relative_X,player.getY()+relative_Y);
         GetMouse();    
       ///  move(3);
