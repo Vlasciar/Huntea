@@ -4,7 +4,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * Write a description of class Main_Ray here.
  * 
  * @author (your name) 
- * @version (a version number or a date)
+ * @version 2
  */
 public class Main_Ray extends Actor 
 {
@@ -17,7 +17,7 @@ public class Main_Ray extends Actor
     public Main_Ray (Player pl)
     {
         player=pl;   
-        this.setLocation(player.getX(),player.getY());
+       // this.setLocation(player.getX(),player.getY());
     }
     
     boolean Mouse1_down=false;
@@ -27,7 +27,7 @@ public class Main_Ray extends Actor
     public void act() 
     {
         this.setLocation(player.getX(),player.getY());
-        this.turnTowards(player.getX()+relative_X,player.getY()+relative_Y);
+        //this.turnTowards(player.getX()+relative_X,player.getY()+relative_Y);
         GetMouse();    
       ///  move(3);
     } 
@@ -55,32 +55,11 @@ public class Main_Ray extends Actor
         }
         if(Mouse1_down==true)
         {
-            DoMove(-2);
+            turn(-1);
         }
         if(Mouse2_down==true)
         {
-            DoMove(2);
+            turn(1);
         }
-    }
-  
-    private void DoMove(int direction)
-    {        
-        if(relative_Y<=-100 )
-        {
-            relative_X+= direction;            
-        }
-        if(relative_X>=100 )
-        {
-            relative_Y+= direction;            
-        }
-        if(relative_Y>=100 )
-        {
-            relative_X-= direction;            
-        }
-        if(relative_X<=-100)
-        {
-            relative_Y-= direction;            
-        }
-        this.turnTowards(player.getX()+relative_X,player.getY()+relative_Y);
-    }
+    }   
 }

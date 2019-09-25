@@ -38,7 +38,7 @@ public class Player extends Actor {
                 this.setLocation(pX, pY);
             }
         }
-    }
+    }    
 
     private void Movement() {
         pX = getX();
@@ -64,31 +64,55 @@ public class Player extends Actor {
             DoMove(pX-speed_diagonal,pY+speed_diagonal);
         }        ////////////////
         else if ((Greenfoot.isKeyDown("right") || Greenfoot.isKeyDown("D"))) {
-            //  turnTowards(pX+1,pY);         
+            //  turnTowards(pX+1,pY);
             this.setLocation(pX + speed_normal, pY);
             if (check_move() == false) {
-                this.setLocation(pX, pY);
+                this.setLocation(pX + 1, pY + 3);
+                if (check_move() == false) {
+                    this.setLocation(pX + 1, pY - 3);
+                    if (check_move() == false) {
+                        this.setLocation(pX, pY);
+                }
+            }                                                  
             }
         }        ////////////////////////
         else if ((Greenfoot.isKeyDown("left") || Greenfoot.isKeyDown("A"))) {
             //   turnTowards(pX-1,pY);         
             this.setLocation(pX - speed_normal, pY);
             if (check_move() == false) {
-                this.setLocation(pX, pY);
+                this.setLocation(pX - 1, pY + 3);
+                if (check_move() == false) {
+                    this.setLocation(pX - 1, pY - 3);
+                    if (check_move() == false) {
+                        this.setLocation(pX, pY);
+                }
+            }                                                  
             }
         }        /////////////////////////
         else if ((Greenfoot.isKeyDown("up") || Greenfoot.isKeyDown("W"))) {
             //   turnTowards(pX,pY-1);
             this.setLocation(pX, pY - speed_normal);
             if (check_move() == false) {
-                this.setLocation(pX, pY);
+                this.setLocation(pX + 3, pY - 1);
+                if (check_move() == false) {
+                    this.setLocation(pX - 3, pY -1);
+                    if (check_move() == false) {
+                        this.setLocation(pX, pY);
+                }
+            }                                                  
             }
         }        ////////////////////////
         else if ((Greenfoot.isKeyDown("down") || Greenfoot.isKeyDown("S"))) {
             //  turnTowards(pX,pY+1);         
             this.setLocation(pX, pY + speed_normal);
             if (check_move() == false) {
-                this.setLocation(pX, pY);
+                this.setLocation(pX + 3, pY + 1);
+                if (check_move() == false) {
+                    this.setLocation(pX - 3, pY + 1);
+                    if (check_move() == false) {
+                        this.setLocation(pX, pY);
+                }
+            }                                                  
             }
         }
     }
@@ -96,10 +120,10 @@ public class Player extends Actor {
     private boolean check_move() //coliziuni cu obstacolele
     {
         Actor prop = getOneIntersectingObject(Props.class);
-        if (prop == null)
-            return true;
-        else {
+        if (prop != null || isAtEdge()==true)
             return false;
+        else {
+            return true;
         }
 
     }
