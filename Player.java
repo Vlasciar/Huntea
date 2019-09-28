@@ -100,7 +100,7 @@ public class Player extends Actor {
     private boolean check_move() //coliziuni cu obstacolele
     {
         Actor prop = getOneIntersectingObject(Props.class);
-        if (prop != null || isAtEdge()==true)
+        if (prop != null || isAtEdge()==true)            
             return false;
         else {
             return true;

@@ -22,20 +22,68 @@ public class Wall extends Props
     
     int color;
     boolean twoD = false;
-    public Wall(int cl)
+    boolean main=true;
+    int index;
+    public Wall(int cl,boolean m, int i)
     {
         color=cl;
+        main=m;
+        index=i;
+         
     }
+    boolean edgeWall=false;
     protected void addedToWorld(World world)
     {
         GreenfootImage img = new GreenfootImage(getImage());
         int x = img.getWidth();
         int y = img.getHeight();
+        if(x>y) length = x;
+         else length = y;
+         
+       Wall[] walls = ((MyWorld) getWorld()).walls;
+        if(main&& edgeWall==false)
+        {
+         int inX = getX();
+         int inY = getY();
+         int inR = getRotation();
+         walls[index+1] = new Wall(color,false,0);
+         turn(90);
+         move(length/2); 
+         turn(-90);
+         walls[index+1].setRotation(getRotation());
+         getWorld().addObject(walls[index+1],getX(),getY());           
+         setLocation(inX,inY);
+         setRotation(inR);
+         
+         walls[index+2] = new Wall(color,false,0);
+         turn(90);
+         move(length/4);
+         turn(-90);
+         move(length/2);
+         turn(90);
+         walls[index+2].setRotation(this.getRotation());
+         walls[index+2].getImage().scale(length/2+2,10);
+         getWorld().addObject(walls[index+2],this.getX(),this.getY());
+         setLocation(inX,inY);
+         setRotation(inR);
+         
+         walls[index+3] = new Wall(color,false,0);
+         turn(90);
+         move(length/4);
+         turn(-90);
+         move(-length/2);
+         turn(90);
+         walls[index+3].setRotation(this.getRotation());
+         walls[index+3].getImage().scale(length/2+2,10);
+         getWorld().addObject(walls[index+3],this.getX(),this.getY());
+         setLocation(inX,inY);
+         setRotation(inR);
+    }
+        
         
         //getWorld().addObject(this,100,100);
         
-         if(x>y) length = x;
-         else length = y;
+         
 
          
          angle = getRotation();

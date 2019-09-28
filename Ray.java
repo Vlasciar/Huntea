@@ -36,6 +36,8 @@ public class Ray extends Actor
     }    
     double record = 9999999;
     int color;
+    double procent_hit;
+
     public void Walls()
     {        
         Wall[] walls = ((MyWorld) getWorld()).walls;         
@@ -63,6 +65,7 @@ public class Ray extends Actor
                 pt_Y = y1+t*(y2-y1);
                 distance = Math.sqrt((x3-pt_X)*(x3-pt_X)+(y3-pt_Y)*(y3-pt_Y));
                 if(distance < record) {
+                    procent_hit = Math.sqrt(Math.pow((pt_X-x1),2)+Math.pow((pt_Y-y1),2)); 
                     color = walls[k].color;
                     record = distance;
                     record_pt_X = pt_X; 
@@ -71,6 +74,7 @@ public class Ray extends Actor
             }
             k++;            
         }  
+        
         if(twoD==true){
             if(record_pt_X!=0 && record_pt_Y!=0);
             getWorld().getBackground().drawLine((int) x3, (int) y3, (int) record_pt_X, (int) record_pt_Y);   

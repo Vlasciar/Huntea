@@ -1,8 +1,8 @@
 #BlueJ class context
 comment0.target=Wall
 comment0.text=\r\n\ Write\ a\ description\ of\ class\ Wall_oriz\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
-comment1.params=cl
-comment1.target=Wall(int)
+comment1.params=cl\ m\ i
+comment1.target=Wall(int,\ boolean,\ int)
 comment2.params=world
 comment2.target=void\ addedToWorld(greenfoot.World)
 comment3.params=
