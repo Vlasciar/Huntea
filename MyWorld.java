@@ -5,26 +5,30 @@ import java.io.File;
 import java.io.IOException;
 public class MyWorld extends World
 {
-    boolean twoD = false;    
+    boolean twoD = true;    
     public MyWorld()
     {            
         super(70*13, 850, 1);//70-FOV 13-px/angle       
         prepare();
         if(!twoD){inviz2d();}
     }    
-
+    int length = 13;//  px/angle
     public void act()
-    {
-        MouseInfo mouse = Greenfoot.getMouseInfo();
+    {        
         setBackground("bg.png");
         getBackground().setColor(Color.BLACK);            
         getBackground().fillRect(0, 0,getWidth(),getHeight()/2+15);
         getBackground().setColor(Color.GRAY);
         getBackground().fillRect(0, getWidth()/2-15,getWidth(),getHeight()/2);
+        
+        MouseInfo mouse = Greenfoot.getMouseInfo();
         if(Greenfoot.mousePressed(null)==false)
         {
             rays_draw();
-            render_wall();
+            for(int i=0;i<k;i++)
+            { 
+                render_wall(i);
+            }
         }       
     }    
     int FOV=35;//half of the fov    
@@ -36,12 +40,10 @@ public class MyWorld extends World
     private void prepare()
     {
         addObject(pl,586,327);
-
         rays_init(); 
         prep_image();
         prep_edge_walls();
         prep_walls();
-
     }    
 
     public static BufferedImage cropImage(BufferedImage bufferedImage, int x, int y, int width, int height)
@@ -49,18 +51,18 @@ public class MyWorld extends World
         BufferedImage croppedImage = bufferedImage.getSubimage(x, y, width, height);
         return croppedImage;
     }
-    //Wall[] walls = new Wall[255];
-    GreenfootImage img = new GreenfootImage("wallB.png");
+    
+    GreenfootImage img = new GreenfootImage("wall_1.png");
     public void prep_image()
     {
-        int length = img.getWidth();///(getWidth()/k+1);//15
-        File original = new File("images/wallB.png");        
-        File[] cuts = new File[length];       
+        int imgWidth = img.getWidth();///(getWidth()/k+1);//15
+        File original = new File("images/wall_1.png");        
+        File[] cuts = new File[imgWidth];       
         try {
             BufferedImage image = ImageIO.read(original);            
-            for(int i=0;i<length;i++)
+            for(int i=0;i<imgWidth;i++)
             {
-                cuts[i] = new File("images/swa_seg/swa"+i+".png");
+                cuts[i] = new File("images/wall_1_seg/slice"+i+".png");
                 BufferedImage sec = cropImage(image,i,0,1,img.getHeight());
                 ImageIO.write(sec, "png",cuts[i]);
             }  
@@ -69,84 +71,119 @@ public class MyWorld extends World
             e.printStackTrace();                
         }
     }
-    int last_slice;
-    int scl=13;
-    private void render_wall()
-    {
-        int length = 13;
-        double height=0;           
-        for(int i=0;i<k;i++)
-        {           
-            int angle = main_Ray.getRotation()-rays[i].getRotation();
-            double cos = Math.cos(Math.toRadians(angle));
-            int record = (int)(cos*rays[i].record); 
-            double diagonal = getWidth() / Math.cos(Math.toRadians(45));
-            height = ((double)getHeight()/diagonal /record)*100000;
-
-            int color = rays[i].color; 
-
-            switch(color) {
-                case 1:      
-                int slice=0;
-
-                slice = (int)((rays[i].procent_hit*img.getWidth())/100);//0-imgW
-                GreenfootImage Tswa=new GreenfootImage("swa_seg/swa"+slice+".png");
-                
-                showText(String.valueOf(last_slice), 200, 200);
-                showText(String.valueOf(slice), 200, 220);
-                Tswa.scale(scl, (int)height);               
-                getBackground().drawImage(Tswa,i * length,getHeight()/2-(int)height/2);
-               
-                if(Math.abs(slice-last_slice)>1 && Math.abs(slice-last_slice)<13)
+    int next_slice;
+    int scl;     
+    GreenfootImage fillwall;
+    //int gap;
+    private void render_wall(int i)
+    {                 
+        int angle = main_Ray.getRotation()-rays[i].getRotation();
+        double cos = Math.cos(Math.toRadians(angle));
+        int record = (int)(cos*rays[i].record); 
+        double diagonal = getWidth() / Math.cos(Math.toRadians(45));
+        double height = ((double)getHeight()/diagonal /record)*100000;
+        int color = rays[i].color;
+        getBackground().setColor(Color.BLACK);            
+        getBackground().fillRect(i * length, 0,length,getHeight()/2+15);
+        getBackground().setColor(Color.GRAY);
+        getBackground().fillRect(i * length, getWidth()/2-15,length,getHeight()/2);
+        switch(color) {
+            case 1:    
+              int slice = (int)((rays[i].procent_hit*(img.getWidth()-1)));//0-img.Width  
+            rays[i].slice = slice;
+            int next_slice; 
+            int gap = walls[rays[i].record_index].gap;
+            if(i<k-1 && rays[i].record_index==rays[i+1].record_index)
+            {                
+                next_slice = (int)((rays[i+1].procent_hit*(img.getWidth()-1)));//0-img.Width                
+                walls[rays[i].record_index].gap=Math.abs(rays[i].slice-next_slice)+1;      
+                if(gap>13)gap=13;
+                if(rays[i].slice<next_slice)
+                {                   
+                for(int z=0;z<gap;z++)
                 {
-                    int scl= length/Math.abs(slice-last_slice);
-                    int offset=scl;
-                    
-                    if(slice>last_slice)
-                        for(int s=slice-1;s>last_slice;s--)
-                        {                        
-                            Tswa=new GreenfootImage("swa_seg/swa"+s+".png");
-                            Tswa.scale(scl, (int)height);           
-                            getBackground().drawImage(Tswa,i * length-offset,getHeight()/2-(int)height/2);
-                            offset+=scl;
-                        }
-                    else for(int s=last_slice-1;s>slice;s--)
-                        {                        
-                            Tswa=new GreenfootImage("swa_seg/swa"+s+".png");
-                            Tswa.scale(scl, (int)height);           
-                            getBackground().drawImage(Tswa,i * length-offset,getHeight()/2-(int)height/2);
-                            offset+=scl;
-                        }
-                }                
-                 last_slice = slice;
-                /*getBackground().setColor(Color.WHITE);
-                getBackground().fillRect(i * length, getHeight()/2-(int)height/2,length,(int)height);               
-                 */
-                break;
-
-                case 0:
-                getBackground().setColor(Color.BLUE);
-                getBackground().fillRect(i * length, getHeight()/2-(int)height/2,length,(int)height);                
-                break;
-
-                case 2:
-                getBackground().setColor(Color.GREEN);
-                getBackground().fillRect(i * length, getHeight()/2-(int)height/2,length,(int)height);
-                break;
-                case 3:
-                getBackground().setColor(Color.RED);
-                getBackground().fillRect(i * length, getHeight()/2-(int)height/2,length,(int)height);
-                break;
-
-                case 4:
-                getBackground().setColor(Color.YELLOW);
-                getBackground().fillRect(i * length, getHeight()/2-(int)height/2,length,(int)height);
-                break;
-                default:
+                    if(rays[i].slice+z<img.getWidth())
+                    {    
+                        //if(rays[i+1].record<rays[i].record)
+                        //rays[i]
+                        GreenfootImage fillwall=new GreenfootImage("wall_1_seg/slice"+(rays[i].slice+z)+".png");                
+                        
+                        
+                        fillwall.scale((13/gap+1), (int)height);                          
+                        getBackground().drawImage(fillwall,i * length+z*(13/gap+1),getHeight()/2-(int)height/2);
+                    }
+                }
             }
-            //getBackground().drawImage(new GreenfootImage("swa.png"),1,1);
+                else if(rays[i].slice>next_slice)  
+                {
+                for(int z=gap-1;z>=0;z--)
+                {
+                    if(rays[i].slice-z>0 )
+                    {                         
+                        GreenfootImage fillwall=new GreenfootImage("wall_1_seg/slice"+(rays[i].slice-z)+".png");                
+                        fillwall.scale((13/gap+1), (int)height);                          
+                        getBackground().drawImage(fillwall,i * length+z*(13/gap+1),getHeight()/2-(int)height/2);
+                    }
+                }
+                }
+                else if(rays[i].slice==next_slice) 
+                {
+                    GreenfootImage fillwall=new GreenfootImage("wall_1_seg/slice"+(rays[i].slice)+".png");                
+                    fillwall.scale((13), (int)height);
+                    getBackground().drawImage(fillwall,i * length,getHeight()/2-(int)height/2);
+                }
+            }
+            else if(i<k-1 && rays[i].record_index!=rays[i+1].record_index)
+            {
+                for(int z=gap-1;z>=0;z--)
+                {
+                    if(rays[i].slice-z>0)
+                    {                         
+                        GreenfootImage fillwall=new GreenfootImage("wall_1_seg/slice"+(rays[i].slice-z)+".png");                
+                        fillwall.scale((13/gap+2), (int)height);                          
+                        getBackground().drawImage(fillwall,i * length+z*(13/gap+1),getHeight()/2-(int)height/2);
+                    }
+                }
+                for(int z=0;z<gap;z++)
+                {
+                    if(rays[i].slice+z<img.getWidth())
+                    {    
+                        GreenfootImage fillwall=new GreenfootImage("wall_1_seg/slice"+(rays[i].slice+z)+".png");                
+                        fillwall.scale((13/gap+3), (int)height);                          
+                        getBackground().drawImage(fillwall,i * length+z*(13/gap+3),getHeight()/2-(int)height/2);
+                    }
+                }
+            }
+            
+            break;
 
+            case 0:
+            getBackground().setColor(Color.BLACK);            
+        getBackground().fillRect(i * length, 0,length,getHeight()/2+15);
+        getBackground().setColor(Color.GRAY);
+        getBackground().fillRect(i * length, getWidth()/2-15,length,getHeight()/2);
+        
+            getBackground().setColor(Color.GREEN);
+            getBackground().fillRect(i * length, getHeight()/2-(int)height/2,length,(int)height);                
+            
+            break;
+
+            case 2:
+            getBackground().setColor(Color.GREEN);
+            getBackground().fillRect(i * length, getHeight()/2-(int)height/2,length,(int)height);
+            break;
+            case 3:
+            getBackground().setColor(Color.RED);
+            getBackground().fillRect(i * length, getHeight()/2-(int)height/2,length,(int)height);
+            break;
+
+            case 4:
+            getBackground().setColor(Color.YELLOW);
+            getBackground().fillRect(i * length, getHeight()/2-(int)height/2,length,(int)height);
+            break;
+            default:
         }
+
     }
 
     private void rays_init()
@@ -168,6 +205,7 @@ public class MyWorld extends World
         { 
             rays[k].setLocation(pl.getX(),pl.getY());
             rays[k].setRotation(main_Ray.getRotation()-FOV+k);
+            rays[k].drawn=false;
         }
     }
 
@@ -177,28 +215,28 @@ public class MyWorld extends World
         walls[w] = new Wall(1,true,w);
         walls[w].setRotation(0);
         addObject(walls[w],100,200);    
-        w+=4;        
-        walls[w] = new Wall(2,true,w);
+        w++;        
+        walls[w] = new Wall(1,true,w);
         walls[w].setRotation(25);
         addObject(walls[w],260,216);
-        w+=4;
-        walls[w] = new Wall(3,true,w);
+        w++;
+        walls[w] = new Wall(1,true,w);
         walls[w].setRotation(45);
         addObject(walls[w],770,116);        
-        w+=4;
-        walls[w] = new Wall(4,true,w);
+        w++;
+        walls[w] = new Wall(1,true,w);
         walls[w].setRotation(40);
         addObject(walls[w],270,600);
-        w+=4;
+        w++;
         walls[w] = new Wall(1,true,w);
         walls[w].setRotation(180);
-        addObject(walls[w],870,416);
-        w+=4;
-        walls[w] = new Wall(2,true,w);
+        addObject(walls[w],400,416);
+        w++;
+        walls[w] = new Wall(1,true,w);
         walls[w].setRotation(20);
         addObject(walls[w],470,416);
-        w+=4;
-        walls[w] = new Wall(3,true,w);
+        w++;
+        walls[w] = new Wall(1,true,w);
         walls[w].setRotation(300);
         addObject(walls[w],670,316);
     }
