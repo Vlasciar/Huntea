@@ -22,17 +22,16 @@ public class Wall extends Props
     
     int color;
     boolean twoD = false;
-    boolean main=true;
     int index;
-    public Wall(int cl,boolean m, int i)
+    public Wall(int cl, int i)
     {
         color=cl;
-        main=m;
         index=i;
-         
+        
     }
     boolean edgeWall=false;
     int gap;
+    boolean solid=true;
     protected void addedToWorld(World world)
     {
         GreenfootImage img = new GreenfootImage(getImage());
@@ -41,10 +40,10 @@ public class Wall extends Props
         if(x>y) length = x;
          else length = y;
          
-       Wall[] walls = ((MyWorld) getWorld()).walls;
+        /*Wall[] walls = ((MyWorld) getWorld()).walls;
         if(main&& edgeWall==false)
         {
-        /* int inX = getX();
+         int inX = getX();
          int inY = getY();
          int inR = getRotation();
          walls[index+1] = new Wall(color,false,0);
@@ -63,7 +62,7 @@ public class Wall extends Props
          move(length/2);
          turn(90);
          walls[index+2].setRotation(this.getRotation());
-         walls[index+2].getImage().scale(length/2,10);
+         walls[index+2].getImage().scale(length/2,1);
          getWorld().addObject(walls[index+2],this.getX(),this.getY());
          setLocation(inX,inY);
          setRotation(inR);
@@ -75,16 +74,13 @@ public class Wall extends Props
          move(-length/2);
          turn(90);
          walls[index+3].setRotation(this.getRotation());
-         walls[index+3].getImage().scale(length/2,10);
+         walls[index+3].getImage().scale(length/2,1);
          getWorld().addObject(walls[index+3],this.getX(),this.getY());
          setLocation(inX,inY);
-         setRotation(inR);*/
+         setRotation(inR);
     }
-        
-        
-        //getWorld().addObject(this,100,100);
-        
-         
+     */   
+                
 
          
          angle = getRotation();

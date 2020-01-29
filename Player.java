@@ -100,8 +100,19 @@ public class Player extends Actor {
     private boolean check_move() //coliziuni cu obstacolele
     {
         Actor prop = getOneIntersectingObject(Props.class);
-        if (prop != null || isAtEdge()==true)            
-            return false;
+        if(isAtEdge()==true){
+            return false; 
+        }
+        if (prop != null ) 
+        { 
+            if(prop.getClass()==Wall.class)
+            { 
+                Wall wall=(Wall) prop;
+                if(wall.solid==false)
+                return true;
+            }
+            return false; 
+        }
         else {
             return true;
         }

@@ -13,7 +13,7 @@ public class Ray extends Actor
     
     double alaturata;
     double opusa;   
-    boolean twoD = true;
+    boolean twoD = false;
     public void act() 
     {     
         coordonates();
