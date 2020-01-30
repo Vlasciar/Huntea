@@ -48,11 +48,11 @@ public class Main_Ray extends Actor
         }
         if(Mouse1_down==true)
         {
-            turn(-1);
+            turn(-2);
         }
         if(Mouse2_down==true)
         {
-            turn(1);
+            turn(2);
         }
     }   
 }

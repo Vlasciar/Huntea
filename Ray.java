@@ -13,7 +13,6 @@ public class Ray extends Actor
     
     double alaturata;
     double opusa;   
-    boolean twoD = false;
     public void act() 
     {     
         coordonates();
@@ -38,7 +37,6 @@ public class Ray extends Actor
     int color;
     double procent_hit;
     int record_index;
-    int record_second_index;
     int slice;
     //int gap;
     public void Walls()
@@ -69,7 +67,6 @@ public class Ray extends Actor
                 distance = Math.sqrt((x3-pt_X)*(x3-pt_X)+(y3-pt_Y)*(y3-pt_Y));
                 if(distance < record) {
                     procent_hit = Math.sqrt(Math.pow((pt_X-x1),2)+Math.pow((pt_Y-y1),2))/walls[k].length;                     
-                    record_second_index = record_index;
                     record_index=k;
                     color = walls[k].color;
                     record = distance;
@@ -79,11 +76,11 @@ public class Ray extends Actor
             }
             k++;            
         }  
-        
-        if(twoD==true){
-            //if(record_pt_X!=0 && record_pt_Y!=0);
-            getWorld().getBackground().setColor(Color.WHITE);
-            getWorld().getBackground().drawLine((int) x3, (int) y3, (int) record_pt_X, (int) record_pt_Y);   
-        }
+        walls[record_index].discovered = true;
+        if(Greenfoot.isKeyDown("M"))
+        {
+        getWorld().getBackground().setColor(Color.WHITE);
+        getWorld().getBackground().drawLine((int) x3, (int) y3, (int) record_pt_X, (int) record_pt_Y);   
+    }
     }    
 }

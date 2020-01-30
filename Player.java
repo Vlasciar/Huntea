@@ -30,8 +30,16 @@ public class Player extends Actor {
             if(check_move()==false)
             {
                 move(-speed);
+                setRotation(getRotation()-45);
+                if(!try_move_up())
+                {
+                    try_move_right();
+                }
             }
+            else
+            {
             setRotation(getRotation()-45);
+        }
         }////////////////////
         else if ((Greenfoot.isKeyDown("right") || Greenfoot.isKeyDown("D")) &&
         (Greenfoot.isKeyDown("down") || Greenfoot.isKeyDown("S"))) {
@@ -40,18 +48,34 @@ public class Player extends Actor {
             if(check_move()==false)
             {
                 move(-speed);
+                setRotation(getRotation()-135);
+                if(!try_move_down())
+                {
+                    try_move_right();
+                }
             }
+            else
+            {
             setRotation(getRotation()-135);
+            }
         }///////////////////////////////
         else if ((Greenfoot.isKeyDown("left") || Greenfoot.isKeyDown("A")) &&
-        (Greenfoot.isKeyDown("up") || Greenfoot.isKeyDown("W"))) {
+        (Greenfoot.isKeyDown("up") || Greenfoot.isKeyDown("W"))) {           
             setRotation(getRotation()-45);
             move(speed);
             if(check_move()==false)
             {
                 move(-speed);
+                setRotation(getRotation()+45);
+                if(!try_move_up())
+                {
+                    try_move_left();
+                }
             }
+            else
+            {
             setRotation(getRotation()+45);
+            }
         }        /////////////////
         else if ((Greenfoot.isKeyDown("left") || Greenfoot.isKeyDown("A")) &&
         (Greenfoot.isKeyDown("down") || Greenfoot.isKeyDown("S"))) {
@@ -60,40 +84,28 @@ public class Player extends Actor {
             if(check_move()==false)
             {
                 move(-speed);
+                setRotation(getRotation()+135);
+                if(!try_move_down())
+                {
+                    try_move_left();
+                }
             }
+            else
+            {
             setRotation(getRotation()+135);
+            }
         }        ////////////////
         else if ((Greenfoot.isKeyDown("right") || Greenfoot.isKeyDown("D"))) {
-            setRotation(getRotation()+90);
-            move(speed);
-            if(check_move()==false)
-            {
-                move(-speed);
-            }
-            setRotation(getRotation()-90);
+            try_move_right();
         }        ////////////////////////
         else if ((Greenfoot.isKeyDown("left") || Greenfoot.isKeyDown("A"))) {
-            setRotation(getRotation()-90);
-            move(speed);
-            if(check_move()==false)
-            {
-                move(-speed);
-            }
-            setRotation(getRotation()+90);
+            try_move_left();
         }        /////////////////////////
         else if ((Greenfoot.isKeyDown("up") || Greenfoot.isKeyDown("W"))) {
-            move(speed);
-            if(check_move()==false)
-            {
-                move(-speed);
-            }
+            try_move_up();
         }        ////////////////////////
         else if ((Greenfoot.isKeyDown("down") || Greenfoot.isKeyDown("S"))) {
-            move(-speed);
-            if(check_move()==false)
-            {
-                move(speed);
-            }
+            try_move_down();
         }
     }
 
@@ -109,13 +121,60 @@ public class Player extends Actor {
             { 
                 Wall wall=(Wall) prop;
                 if(wall.solid==false)
-                return true;
+                    return true;
             }
             return false; 
         }
         else {
             return true;
-        }
+        }        
+    }
 
+    private boolean try_move_right()
+    {
+        setRotation(getRotation()+90);
+        move(speed);
+        if(check_move()==false)
+        {
+            move(-speed);
+            return false;
+        }
+        setRotation(getRotation()-90);
+        return true;
+    }
+
+    private boolean try_move_left()
+    {
+        setRotation(getRotation()-90);
+        move(speed);
+        if(check_move()==false)
+        {
+            move(-speed);
+            return false;
+        }
+        setRotation(getRotation()+90);
+        return true;
+    }
+
+    private boolean try_move_up()
+    {
+        move(speed);
+        if(check_move()==false)
+        {
+            move(-speed);
+            return false;
+        }
+        return true;
+    }
+
+    private boolean try_move_down()
+    {
+        move(-speed);
+        if(check_move()==false)
+        {
+            move(speed);
+            return false;
+        }
+        return true;
     }
 }

@@ -17,5 +17,5 @@ comment7.target=void\ rays_init()
 comment8.params=
 comment8.target=void\ rays_draw()
 comment9.params=
-comment9.target=void\ inviz2d()
+comment9.target=void\ inviz()
 numComments=10

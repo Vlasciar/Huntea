@@ -4,32 +4,37 @@ import javax.imageio.ImageIO;
 import java.io.File;
 import java.io.IOException;
 public class MyWorld extends World
-{
-    boolean twoD = true;    
+{ 
     public MyWorld()
     {            
-        super(70*13, 850, 1);//70-FOV 13-px/angle       
+        super(69*13, 860, 1);//70-FOV 13-px/angle       
         prepare();
-        if(!twoD){inviz2d();}
     }    
-    int length = 13;//  px/angle
+    int length = 13;//  px/angle 
     public void act()
-    {        
-        setBackground("bg.png");
+    {   
+        if(Greenfoot.isKeyDown("M"))
+        {
+          getBackground().setColor(Color.BLACK);            
+        getBackground().fillRect(0, 0,getWidth(),getHeight());
+        rays_draw();
+        }
+        else{
         getBackground().setColor(Color.BLACK);            
         getBackground().fillRect(0, 0,getWidth(),getHeight()/2+15);
         getBackground().setColor(Color.GRAY);
-        getBackground().fillRect(0, getWidth()/2-15,getWidth(),getHeight()/2);
-
-        MouseInfo mouse = Greenfoot.getMouseInfo();
+        getBackground().fillRect(0, getWidth()/2-5,getWidth(),getHeight()/2);
+       MouseInfo mouse = Greenfoot.getMouseInfo();
         if(Greenfoot.mousePressed(null)==false)
         {
             rays_draw();
+            inviz();
             for(int i=0;i<k;i++)
             { 
                 render_wall(i);
             }
-        }       
+        } 
+    }              
     }    
     int FOV=35;//half of the fov    
     Ray[] rays = new Ray[361];//max fov 360
@@ -41,7 +46,7 @@ public class MyWorld extends World
     {
         Wall_Matrix wall_matrix = new Wall_Matrix();
         addObject(wall_matrix,1,1);
-        addObject(pl,25,25);
+        addObject(pl,25,25);        
         rays_init(); 
         prep_image();
         //prep_edge_walls();
@@ -83,7 +88,7 @@ public class MyWorld extends World
         double cos = Math.cos(Math.toRadians(angle));
         int record = (int)(cos*rays[i].record); 
         double diagonal = getWidth() / Math.cos(Math.toRadians(45));
-        double height = ((double)getHeight()/diagonal /record)*35000;
+        double height = ((double)getHeight()*22000/diagonal /(record));
         if(height>getHeight()*10) height=getHeight()*10;
         if(height<1)height=1;
         int color = rays[i].color;
@@ -158,12 +163,8 @@ public class MyWorld extends World
             rays[k].drawn=false;
         }
     }   
-    public void inviz2d()
+    public void inviz()
     {
-        for(int i=0;i<walls.length;i++){
-            if(walls[i]!=null)
-                walls[i].getImage().setTransparency(0);
-        }
         main_Ray.getImage().setTransparency(0);
         pl.getImage().setTransparency(0);
         for(int i=0;i<rays.length;i++){
