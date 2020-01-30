@@ -17,7 +17,7 @@ public class Player extends Actor {
         ray.setLocation(getX(),getY());
         Movement();
     }
-    int speed = 2;
+    int speed = 1;
     int pX,pY; //player x,y    
     private void Movement() {
         pX = getX();

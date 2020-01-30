@@ -33,17 +33,19 @@ public class MyWorld extends World
     }    
     int FOV=35;//half of the fov    
     Ray[] rays = new Ray[361];//max fov 360
-    Wall[] walls = new Wall[255]; 
+    Wall[] walls = Wall_Matrix.walls; 
     Main_Ray main_Ray = new Main_Ray();  
     Player pl = new Player(main_Ray);    
-    int k=0;
+    int k=0;    
     private void prepare()
     {
-        addObject(pl,50,50);
+        Wall_Matrix wall_matrix = new Wall_Matrix();
+        addObject(wall_matrix,1,1);
+        addObject(pl,25,25);
         rays_init(); 
         prep_image();
-        prep_edge_walls();
-        prep_walls();
+        //prep_edge_walls();
+        //prep_walls();
     }    
 
     public static BufferedImage cropImage(BufferedImage bufferedImage, int x, int y, int width, int height)
@@ -81,7 +83,7 @@ public class MyWorld extends World
         double cos = Math.cos(Math.toRadians(angle));
         int record = (int)(cos*rays[i].record); 
         double diagonal = getWidth() / Math.cos(Math.toRadians(45));
-        double height = ((double)getHeight()/diagonal /record)*70000;
+        double height = ((double)getHeight()/diagonal /record)*35000;
         if(height>getHeight()*10) height=getHeight()*10;
         if(height<1)height=1;
         int color = rays[i].color;
@@ -155,132 +157,7 @@ public class MyWorld extends World
             rays[k].setRotation(main_Ray.getRotation()-FOV+k);
             rays[k].drawn=false;
         }
-    }
-
-    public void prep_walls()
-    {
-        int w=4;               
-        for(int i=0;i<7;i++)
-        {
-            walls[w] = new Wall(1,w);
-            walls[w].setRotation(90);
-            addObject(walls[w],200,50+100*i);
-            w++;
-        }
-        for(int i=0;i<5;i++)
-        {
-            walls[w] = new Wall(1,w);
-            walls[w].setRotation(0);
-            addObject(walls[w],250+100*i,700);
-            w++;
-        }
-        walls[w] = new Wall(1,w);
-        walls[w].setRotation(0);
-        walls[w].setImage("Wall2.png");
-        addObject(walls[w],725,700);
-        w++;
-        for(int i=0;i<5;i++)
-        {
-            walls[w] = new Wall(1,w);
-            walls[w].setRotation(90);
-            addObject(walls[w],750,650-100*i);
-            w++;
-        }
-        walls[w] = new Wall(1,w);
-        walls[w].setRotation(90);
-        walls[w].setImage("Wall2.png");
-        addObject(walls[w],750,175);
-        w++;
-        for(int i=0;i<3;i++)
-        {
-            walls[w] = new Wall(1,w);
-            walls[w].setRotation(0);
-            addObject(walls[w],700-100*i,150);
-            w++;
-        }
-        walls[w] = new Wall(1,w);
-        walls[w].setRotation(0);
-        walls[w].setImage("Wall2.png");
-        addObject(walls[w],425,150);
-        w++;
-        for(int i=0;i<4;i++)
-        {
-            walls[w] = new Wall(1,w);
-            walls[w].setRotation(90);
-            addObject(walls[w],400,200+100*i);
-            w++;
-        }
-        for(int i=0;i<2;i++)
-        {
-            walls[w] = new Wall(1,w);
-            walls[w].setRotation(0);
-            addObject(walls[w],450+100*i,550);
-            w++;
-        }
-        for(int i=0;i<2;i++)
-        {
-            walls[w] = new Wall(1,w);
-            walls[w].setRotation(90);
-            addObject(walls[w],600,500-100*i);
-            w++;
-        }
-        walls[w] = new Wall(1,w);
-        walls[w].setRotation(90);
-        walls[w].setImage("Wall2.png");
-        addObject(walls[w],600,325);
-        w++;
-        walls[w] = new Wall(1,w);
-        walls[w].setRotation(0);
-        walls[w].setImage("Wall2.png");
-        addObject(walls[w],575,300);
-        w++;
-        for(int i=0;i<2;i++)
-        {
-            walls[w] = new Wall(1,w);
-            walls[w].setRotation(90);
-            addObject(walls[w],550,500-100*i);
-            w++;
-        }
-        walls[w] = new Wall(1,w);
-        walls[w].setRotation(90);
-        walls[w].setImage("Wall2.png");
-        walls[w].solid=false;
-        addObject(walls[w],550,325);
-
-        w++;
-    }
-
-    public void prep_edge_walls()
-    {
-        int w=0; 
-        int W=getWidth();
-        int H=getHeight();
-        walls[w] = new Wall(0,w);
-        walls[w].setRotation(0);
-        walls[w].edgeWall=true;
-        addObject(walls[w],0,0); 
-        walls[w].x1=0;walls[w].y1=0;walls[w].x2=W;walls[w].y2=0;
-        w++;        
-        walls[w] = new Wall(0,w);
-        walls[w].setRotation(0);
-        walls[w].edgeWall=true;
-        addObject(walls[w],0,0);
-        walls[w].x1=0;walls[w].y1=H;walls[w].x2=W;walls[w].y2=H;
-        w++;
-        walls[w] = new Wall(0,w);
-        walls[w].setRotation(90);
-        walls[w].edgeWall=true;
-        addObject(walls[w],0,0); 
-        walls[w].x1=0;walls[w].y1=0;walls[w].x2=0;walls[w].y2=H;
-        w++;
-        walls[w] = new Wall(0,w);
-        walls[w].setRotation(90);
-        walls[w].edgeWall=true;
-        addObject(walls[w],0,0);
-        walls[w].x1=W;walls[w].y1=0;walls[w].x2=W;walls[w].y2=H;
-
-    }
-
+    }   
     public void inviz2d()
     {
         for(int i=0;i<walls.length;i++){

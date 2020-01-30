@@ -1,4 +1,4 @@
-Greenfoot run started: Wed Jan 29 14:05:28 EET 2020
+Greenfoot run started: Thu Jan 30 18:27:03 EET 2020
 Greenfoot version: 3.5.2
 Java version 1.8.0_192
 Virtual machine: Java HotSpot(TM) Client VM 25.192-b12 (Oracle Corporation)
@@ -6,6 +6,2448 @@ Running on: Windows 10 10.0 (x86)
 Java Home: D:\greenfoot\jdk\jre
 ----
 Opening project: D:\GF_Huntea\Huntea
-1580299529671: Listening for JDWP connection on address: javadebug
+1580401627673: Listening for JDWP connection on address: javadebug
 Connected to debug VM via dt_shmem transport...
 Communication with debug VM fully established.
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+  reason: class file for threadchecker.Tag not found
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+unknown enum constant threadchecker.Tag.Any
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            Exception in thread "BlueJ compiler thread" Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at com.sun.javafx.collections.ObservableListWrapper.get(ObservableListWrapper.java:89)
+	at com.sun.javafx.collections.VetoableListDecorator.get(VetoableListDecorator.java:306)
+	at javafx.scene.Parent.updateCachedBounds(Parent.java:1591)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1535)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.getLocalBounds(Node.java:3478)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Parent.getChildTransformedBounds(Parent.java:1732)
+	at javafx.scene.Parent.recomputeBounds(Parent.java:1524)
+	at javafx.scene.Parent.impl_computeGeomBounds(Parent.java:1388)
+	at javafx.scene.layout.Region.impl_computeGeomBounds(Region.java:3078)
+	at javafx.scene.Node.updateGeomBounds(Node.java:3577)
+	at javafx.scene.Node.getGeomBounds(Node.java:3530)
+	at javafx.scene.Node.computeLocalBounds(Node.java:3593)
+	at javafx.scene.Node.updateLocalBounds(Node.java:3623)
+	at javafx.scene.Node.getLocalBounds(Node.java:3484)
+	at javafx.scene.Node.updateTxBounds(Node.java:3641)
+	at javafx.scene.Node.getTransformedBounds(Node.java:3424)
+	at javafx.scene.Node.updateBounds(Node.java:559)
+	at javafx.scene.Parent.updateBounds(Parent.java:1719)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Parent.updateBounds(Parent.java:1717)
+	at javafx.scene.Scene$ScenePulseListener.pulse(Scene.java:2404)
+	at com.sun.javafx.tk.Toolkit.lambda$runPulse$29(Toolkit.java:398)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.Toolkit.runPulse(Toolkit.java:397)
+	at com.sun.javafx.tk.Toolkit.firePulse(Toolkit.java:424)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:518)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$403(QuantumToolkit.java:319)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$147(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "JavaFX Application Thread" java.lang.OutOfMemoryError: Java heap space

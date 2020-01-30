@@ -43,7 +43,7 @@ public class Ray extends Actor
     //int gap;
     public void Walls()
     {        
-        Wall[] walls = ((MyWorld) getWorld()).walls;         
+        Wall[] walls = Wall_Matrix.walls;         
         int k=0;
         record = 9999999;
         double distance = 0;
