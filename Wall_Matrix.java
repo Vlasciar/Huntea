@@ -17,8 +17,8 @@ public class Wall_Matrix extends Actor
         // Add your action code here.
     }     
     int Walls_Index = 0; 
-    static Wall[] walls = new Wall[1023];  
-    int Maze[][] ={ 
+    static Wall[] walls = new Wall[4047];  
+    static int Maze[][] ={ 
     {1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1},
     {1,  0,  0,  0,  1,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  1,  1},
     {1,  2,  1,  0,  1,  1,  1,  0,  1,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  1},
@@ -56,7 +56,7 @@ public class Wall_Matrix extends Actor
     };    
     protected void addedToWorld(World world)
     {  
-        
+        Maze_Generation.generate_maze();
         for(int y=1;y<= getWorld().getHeight();y+=26)  
         {
         for(int x=1;x<= getWorld().getWidth();x+=26)
