@@ -1,4 +1,4 @@
-Greenfoot run started: Fri Jan 31 09:02:13 EET 2020
+Greenfoot run started: Fri Jan 31 10:43:26 EET 2020
 Greenfoot version: 3.5.2
 Java version 1.8.0_192
 Virtual machine: Java HotSpot(TM) Client VM 25.192-b12 (Oracle Corporation)
@@ -6,121 +6,15 @@ Running on: Windows 10 10.0 (x86)
 Java Home: D:\greenfoot\jdk\jre
 ----
 Opening project: D:\GF_Huntea\Huntea
-1580454135107: Listening for JDWP connection on address: javadebug
+1580460208021: Listening for JDWP connection on address: javadebug
 Connected to debug VM via dt_shmem transport...
 Communication with debug VM fully established.
-Internal error: Update stats failed: java.net.UnknownHostException: stats.greenfoot.org
 unknown enum constant threadchecker.Tag.Any
   reason: class file for threadchecker.Tag not found
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
   reason: class file for threadchecker.Tag not found
 unknown enum constant threadchecker.Tag.Any
@@ -133,92 +27,11 @@ unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
 unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
   reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
   reason: class file for threadchecker.Tag not found
@@ -246,16 +59,11 @@ unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
   reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
   reason: class file for threadchecker.Tag not found
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
@@ -263,27 +71,19 @@ unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
   reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
   reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
   reason: class file for threadchecker.Tag not found
 unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
@@ -305,10 +105,6 @@ unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
   reason: class file for threadchecker.Tag not found
 unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
@@ -323,13 +119,8 @@ unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
-  reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
   reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
@@ -345,7 +136,6 @@ unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
-unknown enum constant threadchecker.Tag.Any
   reason: class file for threadchecker.Tag not found
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
@@ -353,7 +143,6 @@ unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
   reason: class file for threadchecker.Tag not found
-unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
 unknown enum constant threadchecker.Tag.Any
