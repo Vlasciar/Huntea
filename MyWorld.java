@@ -8,31 +8,31 @@ public class MyWorld extends World
     public MyWorld()
     {            
         super(69*13, 860, 1);//70-FOV 13-px/angle       
-        prepare();
+        prepare(); 
     }    
     int length = 13;//  px/angle 
     public void act()
     {   
         if(Greenfoot.isKeyDown("M"))
         {
-          getBackground().setColor(Color.BLACK);            
-        getBackground().fillRect(0, 0,getWidth(),getHeight());
-        rays_draw();
+            getBackground().setColor(Color.BLACK);            
+            getBackground().fillRect(0, 0,getWidth(),getHeight());
+            rays_draw();
         }
         else{
-        getBackground().setColor(Color.BLACK);            
-        getBackground().fillRect(0, 0,getWidth(),getHeight()/2+15);
-        getBackground().setColor(Color.GRAY);
-        getBackground().fillRect(0, getWidth()/2-5,getWidth(),getHeight()/2);
-       MouseInfo mouse = Greenfoot.getMouseInfo();
-        if(Greenfoot.mousePressed(null)==false)
-        {
-            rays_draw();
-            inviz();
-            for(int i=0;i<k;i++)
-            { 
-                render_wall(i);
-            }
+            getBackground().setColor(Color.BLACK);            
+            getBackground().fillRect(0, 0,getWidth(),getHeight()/2+15);
+            getBackground().setColor(Color.GRAY);
+            getBackground().fillRect(0, getWidth()/2-5,getWidth(),getHeight()/2);
+            MouseInfo mouse = Greenfoot.getMouseInfo();
+            if(Greenfoot.mousePressed(null)==false)
+            {
+                rays_draw();
+                inviz();
+                for(int i=0;i<k;i++)
+                { 
+                    render_wall(i);
+                }
         } 
     }              
     }    
@@ -156,6 +156,8 @@ public class MyWorld extends World
     private void rays_draw()////act////
     {
         k=0;
+        rays[0].check_ray_draw();
+        rays[FOV*2].check_ray_draw();
         for(int i=main_Ray.getRotation()-FOV;i<=main_Ray.getRotation()+FOV;i++,k++)
         { 
             rays[k].setLocation(pl.getX(),pl.getY());
@@ -163,7 +165,8 @@ public class MyWorld extends World
             rays[k].drawn=false;
         }
     }   
-    public void inviz()
+
+public void inviz()
     {
         main_Ray.getImage().setTransparency(0);
         pl.getImage().setTransparency(0);

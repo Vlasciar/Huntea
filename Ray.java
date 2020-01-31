@@ -17,7 +17,7 @@ public class Ray extends Actor
     {     
         coordonates();
         Walls();
-    }  
+    }   
 
     public void coordonates()
     {        
@@ -39,14 +39,16 @@ public class Ray extends Actor
     int record_index;
     int slice;
     //int gap;
+    Wall[] walls = Wall_Matrix.walls;
+    double record_pt_X=0;
+    double record_pt_Y=0;
     public void Walls()
-    {        
-        Wall[] walls = Wall_Matrix.walls;         
+    {                         
         int k=0;
         record = 9999999;
         double distance = 0;
-        double record_pt_X=0;
-        double record_pt_Y=0;
+        record_pt_X=0;
+        record_pt_Y=0;
         double pt_X,pt_Y;
         while(walls[k]!=null)
         {
@@ -70,17 +72,20 @@ public class Ray extends Actor
                     record_index=k;
                     color = walls[k].color;
                     record = distance;
-                    record_pt_X = pt_X; 
+                    record_pt_X = pt_X;
                     record_pt_Y = pt_Y;
                 }
             }
-            k++;            
+            k++;             
         }  
-        walls[record_index].discovered = true;
+        walls[record_index].discovered = true;                     
+    }   
+    public void check_ray_draw()
+    {
         if(Greenfoot.isKeyDown("M"))
         {
         getWorld().getBackground().setColor(Color.WHITE);
         getWorld().getBackground().drawLine((int) x3, (int) y3, (int) record_pt_X, (int) record_pt_Y);   
     }
-    }    
+    }
 }

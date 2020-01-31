@@ -21,7 +21,6 @@ public class Wall extends Props
     double x2,y2; //pt 2
     
     int color;
-    boolean twoD = false;
     boolean discovered;
     int index;  
     public Wall(int cl, int i)
@@ -29,7 +28,6 @@ public class Wall extends Props
         color=cl;
         index=i;                 
     }
-    boolean edgeWall=false;
     int gap;
     boolean solid=true;
     protected void addedToWorld(World world)
@@ -52,15 +50,16 @@ public class Wall extends Props
          y1 = getY() + opusa;
          x2 = getX() - alaturata;
          y2 = getY() - opusa;  
+  
     }    
     public void act() 
-    {        
+    {         
          if(Greenfoot.isKeyDown("M") && discovered){
-         getImage().setTransparency(255);
+             getImage().setTransparency(255);
         }
         else
         {
             getImage().setTransparency(0);
-        }
+        } 
     }    
 }
