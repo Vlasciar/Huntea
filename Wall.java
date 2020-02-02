@@ -50,6 +50,7 @@ public class Wall extends Props
          y1 = getY() + opusa;
          x2 = getX() - alaturata;
          y2 = getY() - opusa;  
+        // getWorld().showText(String.valueOf(color), getX(), getY());
   
     }    
     public void act() 

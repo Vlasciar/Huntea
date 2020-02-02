@@ -7,7 +7,7 @@ public class MyWorld extends World
 { 
     public MyWorld()
     {            
-        super(69*13, 860, 1);//70-FOV 13-px/angle       
+        super(69*13, 840, 1);//70-FOV 13-px/angle       
         prepare(); 
     }    
     int length = 13;//  px/angle 
@@ -45,9 +45,12 @@ public class MyWorld extends World
     int k=0;    
     private void prepare()
     {
+        Maze_Generation maze_gen = new Maze_Generation();
+        addObject(maze_gen,1,1);
+        
         Wall_Matrix wall_matrix = new Wall_Matrix();
         addObject(wall_matrix,1,1);
-        addObject(pl,25,25);        
+        addObject(pl,20,20);        
         rays_init(); 
         prep_image(1);
         prep_image(2);
@@ -92,6 +95,7 @@ public class MyWorld extends World
         double diagonal = getWidth() / Math.cos(Math.toRadians(45));
         double height = ((double)getHeight()*22000/diagonal /(record));
         if(height>getHeight()*10) height=getHeight()*10;
+         if(height<=0)height=1;
         getBackground().setColor(Color.BLACK);            
         getBackground().fillRect(i * length, 0,length,getHeight()/2+15);
         getBackground().setColor(Color.GRAY);

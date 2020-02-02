@@ -1,9 +1,16 @@
 #BlueJ class context
 comment0.target=Maze_Generation
 comment0.text=\r\n\ Write\ a\ description\ of\ class\ Maze_Generation\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
-comment1.params=
-comment1.target=void\ act()
-comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Maze_Generation\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
 comment2.params=
-comment2.target=void\ generate_maze()
-numComments=3
+comment2.target=void\ init_maze()
+comment3.params=to_remove
+comment3.target=void\ remove_wall(int)
+comment4.params=check_index
+comment4.target=boolean\ isEdge(int)
+comment5.params=check_index
+comment5.target=void\ check_neighbors(int)
+comment6.params=row\ col
+comment6.target=void\ add_neighbors(int,\ int)
+numComments=7
