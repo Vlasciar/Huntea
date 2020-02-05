@@ -15,7 +15,8 @@ public class Player extends Actor {
     public void act() {
         setRotation(ray.getRotation());
         ray.setLocation(getX(),getY());
-        Movement();
+        if(!Greenfoot.isKeyDown("M"))
+            Movement();
     }
     int speed = 1;
     int pX,pY; //player x,y    

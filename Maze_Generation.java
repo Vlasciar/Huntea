@@ -29,7 +29,7 @@ public class Maze_Generation extends Actor
             if(!isEdge(next_visit))
             check_neighbors(next_visit);
             remove_wall(next_visit);
-        } 
+        }     
     }
 
     private void init_maze()

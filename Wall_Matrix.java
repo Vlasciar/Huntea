@@ -69,8 +69,8 @@ public class Wall_Matrix extends Actor
                 {
                     walls[Walls_Index] = new Wall(1,Walls_Index);
                     walls[Walls_Index].setRotation(90);
-                    getWorld().addObject(walls[Walls_Index],x, y+13);
-                    walls[Walls_Index].color = Maze[i][j];
+                    getWorld().addObject(walls[Walls_Index],x, y+13); 
+                    walls[Walls_Index].color = Maze[i][j] + 1;
                     Walls_Index++;
                 }
                 if(j<max_j && Maze[i][j+1] != 0 )
