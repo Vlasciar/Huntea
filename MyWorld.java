@@ -37,23 +37,26 @@ public class MyWorld extends World
         } 
     }              
     }    
+    int imgSize = 64;
+    int mazeTexture;
     int FOV=35;//half of the fov    
     Ray[] rays = new Ray[361];//max fov 360
     Wall[] walls = Wall_Matrix.walls; 
     Main_Ray main_Ray = new Main_Ray();  
     Player pl = new Player(main_Ray);    
-    int k=0;    
+    int k=0;   
     private void prepare()
     {
+        mazeTexture = (Greenfoot.getRandomNumber(14)+1)*2;
         Maze_Generation maze_gen = new Maze_Generation();
         addObject(maze_gen,1,1);
-        
         Wall_Matrix wall_matrix = new Wall_Matrix();
         addObject(wall_matrix,1,1);
-        addObject(pl,20,20);        
-        rays_init(); 
-        prep_image(1);
-        prep_image(2);
+        addObject(pl,68*13-10,830);     
+
+        rays_init();        
+        prep_image(mazeTexture-1);
+        prep_image(mazeTexture);             
         //prep_edge_walls();
         //prep_walls();
     }    
@@ -63,11 +66,10 @@ public class MyWorld extends World
         BufferedImage croppedImage = bufferedImage.getSubimage(x, y, width, height);
         return croppedImage;
     }
-    GreenfootImage wall_1 = new GreenfootImage("wall_1.png");
-    GreenfootImage wall_2 = new GreenfootImage("wall_2.png");
+
     public void prep_image(int wall_index)
     {
-        int imgWidth = wall_1.getWidth();///(getWidth()/k+1);//15
+        int imgWidth = imgSize;///(getWidth()/k+1);//15
         File original = new File("images/wall_"+wall_index+".png");        
         File[] cuts = new File[imgWidth];       
         try {
@@ -75,7 +77,7 @@ public class MyWorld extends World
             for(int i=0;i<imgWidth;i++)
             {
                 cuts[i] = new File("images/wall_"+wall_index+"_seg/slice"+i+".png");
-                BufferedImage sec = cropImage(image,i,0,1,wall_1.getHeight());
+                BufferedImage sec = cropImage(image,i,0,1,imgSize);
                 ImageIO.write(sec, "png",cuts[i]);
             }  
         }
@@ -100,24 +102,27 @@ public class MyWorld extends World
         getBackground().fillRect(i * length, 0,length,getHeight()/2+15);
         getBackground().setColor(Color.GRAY);
         getBackground().fillRect(i * length, getWidth()/2-15,length,getHeight()/2);
-
-        int slice = (int)((rays[i].procent_hit*(wall_1.getWidth()-1)))%64;//0-img.Width  
+        
+        int slice = (int)((rays[i].procent_hit*(imgSize)))%64;//0-img.Width  
         rays[i].slice = slice;
         int next_slice;
         int x;
-        int gap = walls[rays[i].record_index].gap;
+        int gap = walls[rays[i].record_index].gap;        
+        int texture = mazeTexture+color-2;
+        if(texture>=150)
+            texture = 255;
         if(i<k-1)// && rays[i].record_index==rays[i+1].record_index)
         {                
-            next_slice = (int)((rays[i+1].procent_hit*(wall_1.getWidth()-1)))%64;//0-img.Width                
+            next_slice = (int)((rays[i+1].procent_hit*(imgSize)))%64;//0-img.Width                
             walls[rays[i].record_index].gap=Math.abs(rays[i].slice-next_slice)+1;      
             if(gap>13)gap=13;
             if(rays[i].slice<next_slice)
             {                   
                 for(int z=0;z<gap;z++)
                 {
-                    if(rays[i].slice+z<wall_1.getWidth())
+                    if(rays[i].slice+z<imgSize)
                     {    
-                        GreenfootImage fillwall=new GreenfootImage("wall_"+color+"_seg/slice"+(rays[i].slice+z)+".png");                
+                        GreenfootImage fillwall=new GreenfootImage("wall_"+(texture)+"_seg/slice"+(rays[i].slice+z)+".png");                
                         fillwall.scale((13/gap+1), (int)height);                          
                         getBackground().drawImage(fillwall,i * length+z*(13/gap+1),getHeight()/2-(int)height/2);
                     }
@@ -130,7 +135,7 @@ public class MyWorld extends World
                     if(rays[i].slice-gap<0)gap=rays[i].slice;
                     if(rays[i].slice-z>0 )
                     {                         
-                        GreenfootImage fillwall=new GreenfootImage("wall_"+color+"_seg/slice"+(rays[i].slice-z)+".png");                
+                        GreenfootImage fillwall=new GreenfootImage("wall_"+(texture)+"_seg/slice"+(rays[i].slice-z)+".png");                
                         fillwall.scale((13/gap+1), (int)height);                          
                         getBackground().drawImage(fillwall,i * length+z*(13/gap+1),getHeight()/2-(int)height/2);
                     }
@@ -138,7 +143,7 @@ public class MyWorld extends World
             }
             else if(rays[i].slice==next_slice) 
             {
-                GreenfootImage fillwall=new GreenfootImage("wall_"+color+"_seg/slice"+(rays[i].slice)+".png");                
+                GreenfootImage fillwall=new GreenfootImage("wall_"+(texture)+"_seg/slice"+(rays[i].slice)+".png");                
                 fillwall.scale((13), (int)height);
                 getBackground().drawImage(fillwall,i * length,getHeight()/2-(int)height/2);
             }

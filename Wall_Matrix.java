@@ -55,6 +55,18 @@ public class Wall_Matrix extends Actor
     };    
     protected void addedToWorld(World world)
     {  
+        int exitRow;
+        int exitCol;
+        if(Greenfoot.getRandomNumber(2)==0)
+        {
+            exitRow = 32;
+            exitCol = 33 - Greenfoot.getRandomNumber(5);
+        }
+        else
+        {
+            exitRow = 31 - Greenfoot.getRandomNumber(5);
+            exitCol = 34;
+        }
         for(int y=1;y<= getWorld().getHeight();y+=26)  
         {
         for(int x=1;x<= getWorld().getWidth();x+=26)
@@ -65,20 +77,26 @@ public class Wall_Matrix extends Actor
             int max_j = 34;  
             if(Maze[i][j]!=0)
             {
-                if(i<max_i && Maze[i+1][j] != 0 )
+                if(i<max_i && Maze[i+1][j] != 0)
                 {
                     walls[Walls_Index] = new Wall(1,Walls_Index);
                     walls[Walls_Index].setRotation(90);
-                    getWorld().addObject(walls[Walls_Index],x, y+13); 
-                    walls[Walls_Index].color = Maze[i][j] + 1;
+                    getWorld().addObject(walls[Walls_Index],x, y+13);
+                    if(i==exitRow && j == exitCol)
+                        walls[Walls_Index].color = 255;
+                    else
+                        walls[Walls_Index].color = Maze[i][j] + 1;
                     Walls_Index++;
                 }
-                if(j<max_j && Maze[i][j+1] != 0 )
+                if(j<max_j && Maze[i][j+1] != 0)
                 {
                     walls[Walls_Index] = new Wall(1,Walls_Index);
                     walls[Walls_Index].setRotation(0);
                     getWorld().addObject(walls[Walls_Index],x+13, y);
-                    walls[Walls_Index].color = Maze[i][j];
+                    if(i==exitRow && j == exitCol)
+                        walls[Walls_Index].color = 255;
+                    else
+                        walls[Walls_Index].color = Maze[i][j];
                     Walls_Index++;
                 }
         }            

@@ -82,6 +82,9 @@ public class Ray extends Actor
     }   
     public void check_ray_draw()
     {
+        if(color == 255 && record<20)
+        getWorld().showText("win", 100, 100);
+        else getWorld().showText("in game", 100, 100);
         if(Greenfoot.isKeyDown("M"))
         {
         getWorld().getBackground().setColor(Color.WHITE);
