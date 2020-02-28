@@ -31,7 +31,7 @@ public class Wall extends Props
     int gap;
     boolean solid=true;
     protected void addedToWorld(World world)
-    {
+    {//initializeaza zidul si calculeaza limitele acestuia
         discovered=false;
         getImage().setTransparency(0);
         int x = getImage().getWidth();

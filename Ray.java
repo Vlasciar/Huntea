@@ -4,6 +4,9 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 public class Ray extends Actor
 {
+    //detecteaza ce este in fata jucatorului pt a desena segmentele care creaza iluzia 3d
+    
+    
     double x3,y3;//position
     double x4,y4;//direction  
     int angle;
@@ -20,7 +23,7 @@ public class Ray extends Actor
     }   
 
     public void coordonates()
-    {        
+    { //informatii despre raza       
         angle = getRotation();
         sin = Math.sin(Math.toRadians(angle));//0
         cos = Math.cos(Math.toRadians(angle));//1
@@ -43,7 +46,7 @@ public class Ray extends Actor
     double record_pt_X=0;
     double record_pt_Y=0;
     public void Walls()
-    {                         
+    { //calculeaza cel mai apropiat zid si punctul de contact cu acesta            
         int k=0;
         record = 9999999;
         double distance = 0;

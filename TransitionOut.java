@@ -7,10 +7,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public class TransitionOut extends Actor
 {
-    /**
-     * Act - do whatever the TransitionOut wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
-     */ 
+    //tranzitioneaza in meniul principal
     double raySpeeds[];
     double raySize[];
     int size;
@@ -33,7 +30,7 @@ public class TransitionOut extends Actor
         int done = size/8;//how many seg are in place
         if(k%2==0)
         for(int i=0;i<size/8+1;i++)
-        {   
+        {//creaza efectul de "screen melt"   
             int length = Greenfoot.getRandomNumber(10);
             GreenfootImage seg = new GreenfootImage("bg2_seg/slice"+i*8 + ".png");
             if(-getWorld().getHeight()+(int)raySize[i]>0)

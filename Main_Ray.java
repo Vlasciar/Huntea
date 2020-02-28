@@ -8,10 +8,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public class Main_Ray extends Actor 
 {
-    /**
-     * Act - do whatever the Main_Ray wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
-     */
+    //raza principala, celalalte se misca in functie de aceasta
         
     boolean Mouse1_down=false;
     boolean Mouse2_down=false;

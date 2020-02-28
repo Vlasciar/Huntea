@@ -36,7 +36,7 @@ public class Escaped extends World
         {      
             background.setVolume(0);            
             Time.isCounting = true; 
-            try {
+            try {// verifica daca lumea e incarcata
                 Greenfoot.setWorld(w);
             }
             catch(Exception e) {

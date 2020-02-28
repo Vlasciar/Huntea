@@ -16,7 +16,7 @@ public class MyWorld extends World
     {   if(!isGameOver)
         {   
             background.setVolume(20);
-        if(Greenfoot.isKeyDown("M"))
+        if(Greenfoot.isKeyDown("M"))// map screen
         {
             getBackground().setColor(Color.BLACK);            
             getBackground().fillRect(0, 0,getWidth(),getHeight());
@@ -30,7 +30,7 @@ public class MyWorld extends World
             getBackground().setColor(new Color(255,255,255));
             getBackground().fillRect(0, getWidth()/2-5,getWidth(),getHeight()/2);
             if(Greenfoot.mousePressed(null)==false)
-            {
+            {// redeseneaza zidurile doar daca orientarea s-a schimbat
                 rays_draw();
                 inviz(); 
                 for(int i=0;i<k;i++)
@@ -82,14 +82,14 @@ public class MyWorld extends World
     }    
 
     public static BufferedImage cropImage(BufferedImage bufferedImage, int x, int y, int width, int height)
-    {
+    {//decupeaza textura
         BufferedImage croppedImage = bufferedImage.getSubimage(x, y, width, height);
         return croppedImage;
     }
     GreenfootImage bg = new GreenfootImage("bg2.png");
     BufferedImage image;
     public void prep_bg()
-    {       
+    { //segmenteaza fundalul la meniu      
         int imgWidth = bg.getWidth();//15
         File original = new File("images/bg2.png");        
         File[] cuts = new File[imgWidth/8+1];       
@@ -107,7 +107,7 @@ public class MyWorld extends World
         }
     }
     public void prep_image(int wall_index)
-    {
+    {// segmenteaza texturile folosite
         int imgWidth = imgSize;///(getWidth()/k+1);//15
         File original = new File("images/wall_"+wall_index+".png");        
         File[] cuts = new File[imgWidth];       
@@ -131,14 +131,16 @@ public class MyWorld extends World
     GreenfootImage fillwall;
     //int gap;
     private void render_wall(int i,int color)
-    {                 
+    {           
+        //calculeaza dimensiunile liniei pt raza curenta
         int angle = main_Ray.getRotation()-rays[i].getRotation();
         double cos = Math.cos(Math.toRadians(angle));
         int record = (int)(cos*rays[i].record); 
         double diagonal = getWidth() / Math.cos(Math.toRadians(45));
-        double height = ((double)getHeight()*22000/diagonal /(record));
+        double height = ((double)getHeight()*22000/diagonal /(record));        
         if(height>getHeight()*10) height=getHeight()*10;
          if(height<=0)height=1;
+         
         getBackground().setColor(new Color(58, 58, 58));            
         getBackground().fillRect(i * length, 0,length,getHeight()/2+15);
         getBackground().setColor(new Color(114, 114, 114));
@@ -150,6 +152,7 @@ public class MyWorld extends World
         int x;
         int gap = walls[rays[i].record_index].gap;        
         int texture = mazeTexture+color-2;
+        //deseneaza pe ecran segmentele corespunzatoare la dimensiunile calculate
         if(texture>=150)
             texture = 255;
         if(i<k-1)// && rays[i].record_index==rays[i+1].record_index)
@@ -193,6 +196,7 @@ public class MyWorld extends World
 
     private void rays_init()
     {       
+        //orientarea razelor
         addObject(main_Ray,pl.getX(),pl.getY()); 
         k=0;
         for(int i=main_Ray.getRotation()-FOV;i<=main_Ray.getRotation()+FOV;i++,k++)

@@ -7,6 +7,7 @@ import greenfoot.*; // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * @version (a version number or a date)
  */
 public class Player extends Actor {
+    // verifica dupa miscarile de la tastatura si proceseaza coliziunile
     public Player(Main_Ray r)
     {
         ray = r;

@@ -8,10 +8,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public class Wall_Matrix extends Actor
 {
-    /**
-     * Act - do whatever the Wall_Matrix wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
-     */
+    //stocheaza labirintul, zidurile,iesire, si texturile acestuia
     public void act() 
     {
         // Add your action code here.

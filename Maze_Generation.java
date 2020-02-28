@@ -8,6 +8,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public class Maze_Generation extends Actor 
 { 
+    //genereaza labirintul folosind algoritmul lui PRIM
     protected void addedToWorld(World world)
     {     
         init_maze();
