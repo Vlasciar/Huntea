@@ -56,15 +56,15 @@ public class Wall_Matrix extends Actor
     protected void addedToWorld(World world)
     {  
         int exitRow;
-        int exitCol;
+        int exitCol; 
         if(Greenfoot.getRandomNumber(2)==0)
         {
             exitRow = 32;
-            exitCol = 33 - Greenfoot.getRandomNumber(5);
+            exitCol = 33 - Greenfoot.getRandomNumber(10);
         }
         else
         {
-            exitRow = 31 - Greenfoot.getRandomNumber(5);
+            exitRow = 31 - Greenfoot.getRandomNumber(10);
             exitCol = 34;
         }
         for(int y=1;y<= getWorld().getHeight();y+=26)  

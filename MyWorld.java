@@ -11,54 +11,74 @@ public class MyWorld extends World
         prepare(); 
     }    
     int length = 13;//  px/angle 
+    static boolean isGameOver=false;
     public void act()
-    {   
+    {   if(!isGameOver)
+        {   
+            background.setVolume(20);
         if(Greenfoot.isKeyDown("M"))
         {
             getBackground().setColor(Color.BLACK);            
             getBackground().fillRect(0, 0,getWidth(),getHeight());
             rays_draw();
-        }
+            time.getImage().setTransparency(0);
+        } 
         else{
-            getBackground().setColor(Color.BLACK);            
+            time.getImage().setTransparency(255);
+            getBackground().setColor(Color.GRAY);            
             getBackground().fillRect(0, 0,getWidth(),getHeight()/2+15);
-            getBackground().setColor(Color.GRAY);
+            getBackground().setColor(new Color(255,255,255));
             getBackground().fillRect(0, getWidth()/2-5,getWidth(),getHeight()/2);
-            MouseInfo mouse = Greenfoot.getMouseInfo();
             if(Greenfoot.mousePressed(null)==false)
             {
                 rays_draw();
-                inviz();
+                inviz(); 
                 for(int i=0;i<k;i++)
                 {          
                     if(rays[i].color!=0)
                     render_wall(i,rays[i].color);
                 }
         } 
-    }              
+        GreenfootImage image = new GreenfootImage(String.valueOf(Time.getMinutes()) +":" + String.valueOf(Time.getSeconds()), 90, Color.BLACK, null);
+        getBackground().drawImage(image, time.getX() + 95, time.getY() -50);
+    }
+    }      
+    else 
+    {
+        time.getImage().setTransparency(0);
+        background.setVolume(0);
+    }
     }    
     int imgSize = 64;
     int mazeTexture;
-    int FOV=35;//half of the fov    
+    static int FOV=35;//half of the fov    
     Ray[] rays = new Ray[361];//max fov 360
     Wall[] walls = Wall_Matrix.walls; 
     Main_Ray main_Ray = new Main_Ray();  
     Player pl = new Player(main_Ray);    
     int k=0;   
+    Time time = new Time();
+    GreenfootSound background = new GreenfootSound("Old_Castle_Ambience.mp3");
     private void prepare()
-    {
+    {        
+        background.play();
+        background.setVolume(0);
+        isGameOver=false;
         mazeTexture = (Greenfoot.getRandomNumber(14)+1)*2;
         Maze_Generation maze_gen = new Maze_Generation();
         addObject(maze_gen,1,1);
         Wall_Matrix wall_matrix = new Wall_Matrix();
         addObject(wall_matrix,1,1);
-        addObject(pl,68*13-10,830);     
+        addObject(pl,25,25);     
 
-        rays_init();        
+        rays_init(); 
+        prep_bg();
         prep_image(mazeTexture-1);
-        prep_image(mazeTexture);             
-        //prep_edge_walls();
-        //prep_walls();
+        prep_image(mazeTexture); 
+        
+        addObject(time,90,50); 
+        Time.isCounting=true;
+        Time.Time = 0;
     }    
 
     public static BufferedImage cropImage(BufferedImage bufferedImage, int x, int y, int width, int height)
@@ -66,7 +86,26 @@ public class MyWorld extends World
         BufferedImage croppedImage = bufferedImage.getSubimage(x, y, width, height);
         return croppedImage;
     }
-
+    GreenfootImage bg = new GreenfootImage("bg2.png");
+    BufferedImage image;
+    public void prep_bg()
+    {       
+        int imgWidth = bg.getWidth();//15
+        File original = new File("images/bg2.png");        
+        File[] cuts = new File[imgWidth/8+1];       
+        try {
+            image = ImageIO.read(original);            
+            for(int i=0;i<imgWidth-8;i+=8)
+            {
+                cuts[i/8] = new File("images/bg2_seg/slice"+i+".png");
+                BufferedImage sec = cropImage(image,i,0,8,bg.getHeight());
+                ImageIO.write(sec, "png",cuts[i/8]);
+            }  
+        }
+        catch(IOException e) {
+            e.printStackTrace();                
+        }
+    }
     public void prep_image(int wall_index)
     {
         int imgWidth = imgSize;///(getWidth()/k+1);//15
@@ -84,6 +123,8 @@ public class MyWorld extends World
         catch(IOException e) {
             e.printStackTrace();                
         }
+        cuts = null;
+        original = null;
     }
     int next_slice;
     int scl;     
@@ -98,9 +139,9 @@ public class MyWorld extends World
         double height = ((double)getHeight()*22000/diagonal /(record));
         if(height>getHeight()*10) height=getHeight()*10;
          if(height<=0)height=1;
-        getBackground().setColor(Color.BLACK);            
+        getBackground().setColor(new Color(58, 58, 58));            
         getBackground().fillRect(i * length, 0,length,getHeight()/2+15);
-        getBackground().setColor(Color.GRAY);
+        getBackground().setColor(new Color(114, 114, 114));
         getBackground().fillRect(i * length, getWidth()/2-15,length,getHeight()/2);
         
         int slice = (int)((rays[i].procent_hit*(imgSize)))%64;//0-img.Width  
