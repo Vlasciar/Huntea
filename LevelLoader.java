@@ -4,7 +4,7 @@ public class LevelLoader implements Runnable
     private Escaped esc; //declare our instance variable
     
     /**
-     * Constructor.
+     * Constructor. 
      */
     public LevelLoader(Escaped esc)
     {

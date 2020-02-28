@@ -2,7 +2,7 @@
 comment0.target=LevelLoader
 comment1.params=esc
 comment1.target=LevelLoader(Escaped)
-comment1.text=\r\n\ Constructor.\r\n
+comment1.text=\r\n\ Constructor.\ \r\n
 comment2.params=
 comment2.target=void\ run()
 comment2.text=\r\n\ This\ is\ what\ the\ thread\ will\ do.\r\n
